@@ -1,0 +1,12 @@
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\bin\Debug\ScreenAPI.exe.config
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\bin\Debug\ScreenAPI.exe
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\bin\Debug\ScreenAPI.pdb
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\bin\Debug\ScreenAPI.xml
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.vbprojAssemblyReference.cache
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.Form1.resources
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.Resources.resources
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.vbproj.GenerateResource.cache
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.vbproj.CoreCompileInputs.cache
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.exe
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.xml
+C:\Users\Malvin\Desktop\Database\Data\Proj\ScreenShot\ScreenAPI\obj\Debug\ScreenAPI.pdb
