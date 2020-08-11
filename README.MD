@@ -32,3 +32,6 @@ It's a bit slow but you can remove the "inverting" code section.
         PictureBox1.Image = InvertGDI(PictureBox1.Image)
     End Sub
     
+### Requirements
+- Your device must have .NET Framework 4.7.2 installed.
+- For the best performance and compatibility, open the project with Visual Studio 2019.
