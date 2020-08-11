@@ -37,10 +37,6 @@ Public Class Form1
         Timer2.Start()
     End Sub
 
-    Private Sub Form1_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
-        Application.Restart()
-    End Sub
-
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
 
     End Sub
